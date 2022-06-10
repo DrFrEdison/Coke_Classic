@@ -22,7 +22,7 @@ dt$para$substance <- c("Koffein", "GS2")
 dt$para$unit <- c( bquote("%"),  bquote("%"))
 dt$para$ylab <- c(bquote("Coffein in %"), bquote("GS in %"))
 dt$para$mop.date <- c(NA, "211110")
-dt$para$SOLL <- c(14.15, 119.84, 595.01, 49.9)
+dt$para$SOLL <- c(100 , 100)
 
 dt$para$val.date <- c("171222", "220609")
 
